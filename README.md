@@ -1,5 +1,11 @@
 # Firely Training Exercises (FHIR + C#)
 
+![.NET 10](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet&logoColor=white)
+![FHIR R4](https://img.shields.io/badge/FHIR-R4-2E7D32)
+![C#](https://img.shields.io/badge/C%23-Training-239120?logo=c-sharp&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Learning%20Project-orange)
+![GitHub stars](https://img.shields.io/github/stars/DancesWChickens/firely-training?style=social)
+
 A beginner-friendly C# project for learning how to work with FHIR resources using the Firely .NET SDK.
 
 This project includes four progressive exercises:
