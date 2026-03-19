@@ -74,7 +74,7 @@ You will see a menu to run exercises 1-4.
 
 ## Learning Goal
 
-This project is based on FHIRStarters https://github.com/FirelyTeam/fhirstarters by Firely designed to help a C# beginner understand:
+This project is based on FHIRStarters https://github.com/FirelyTeam/fhirstarters by Firely, designed to help a C# beginner understand:
 
 - FHIR resource modeling in code
 - JSON serialization/deserialization for FHIR
